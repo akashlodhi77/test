@@ -14,13 +14,22 @@ html {
 }
 
 
-.container {
-    width: 100%;
-    max-width: 1200px;
-    padding-left: 15px;
-    padding-right: 15px;
+
+
+
+
+
+.pk{
+    width: 400px;
+    height: 400px;
+    border-radius: 10px;
+    background-color: #2E7D32;
     margin: auto;
 }
+
+
+
+
 
 .header-main {
     width: 100%;
