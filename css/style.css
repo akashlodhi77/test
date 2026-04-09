@@ -13,6 +13,12 @@ html {
     scroll-behavior: smooth;
 }
 
+
+
+
+
+
+
 .pk{
     width: 400px;
     height: 400px;
@@ -27,6 +33,11 @@ html {
     padding-left: 15px;
     padding-right: 15px;
     margin: auto;
+}
+
+.container {
+    width: 80%;
+   
 }
 
 .header-main {
