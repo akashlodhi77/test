@@ -27,18 +27,9 @@ html {
     margin: auto;
 }
 
-.container {
-    width: 100%;
-    max-width: 1200px;
-    padding-left: 15px;
-    padding-right: 15px;
-    margin: auto;
-}
 
-.container {
-    width: 80%;
-   
-}
+
+
 
 .header-main {
     width: 100%;
